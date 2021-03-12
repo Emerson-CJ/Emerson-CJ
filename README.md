@@ -1,2 +1,1 @@
-
-< Hi there, I am Emerson>
+Hey there 👋, I am Emerson
